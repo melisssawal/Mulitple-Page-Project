@@ -1,12 +1,14 @@
 body {
     background-color: rgb(219, 200, 164);
-    color: rgb(58, 34, 12);
     text-align: center;
     margin: 20px;
 }
 
 h1 {
     font-weight: 600px;
+    color: rgb(58, 34, 12);
+    padding: 10px;
+    margin-top: ;
 }
 
 img {
