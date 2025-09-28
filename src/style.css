@@ -8,15 +8,26 @@ h1 {
     font-weight: 600px;
     color: rgb(58, 34, 12);
     padding: 10px;
-    margin-top: ;
+    margin-top: 20px;
 }
 
 img {
 display: block;
 margin: 0 auto;
+border-radius: 10px;
+padding: 15px;
 }
 
 a:visited {
     color: rgb(58, 34, 12);
+    text-decoration: none;
+    background-color: rgb(148, 78, 13);
+    border-radius: 20px;
 }
 
+a {
+    color: rgb(58, 34, 12);
+    text-decoration: none;
+    background-color: rgb(148, 78, 13);
+    border-radius: 20px;
+}
