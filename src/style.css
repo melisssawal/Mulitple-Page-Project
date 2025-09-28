@@ -1,15 +1,14 @@
 body {
     background-color: rgb(219, 200, 164);
     text-align: center;
-    margin: 20px;
+    margin: 40px;
 }
 
 h1 {
-    font-weight: 600px;
     color: rgb(58, 34, 12);
-    padding: 10px;
-    margin-top: 20px;
-    display: block;
+    padding: 30px;
+    margin-top: 40px;
+    text-align: center;
 }
 
 img {
@@ -23,11 +22,20 @@ img {
 a:visited {
     color: rgb(58, 34, 12);
     text-decoration: none;
-  
 }
 
 a {
     color: rgb(58, 34, 12);
     text-decoration: none;
+}
+
+.row {
+    text-align: center;
+    margin: 40px;
 
 }
+
+p {
+    text-align: center;
+}
+
