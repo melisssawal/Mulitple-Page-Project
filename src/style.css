@@ -9,7 +9,12 @@ h1 {
     font-weight: 600px;
 }
 
-
-a {
-    color: ;
+img {
+display: block;
+margin: 0 auto;
 }
+
+a:visited {
+    color: rgb(58, 34, 12);
+}
+
